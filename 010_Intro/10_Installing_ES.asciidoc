@@ -1,3 +1,4 @@
+﻿demo 爱的色放
 [[running-elasticsearch]]
 === 安装并运行 Elasticsearch
 
